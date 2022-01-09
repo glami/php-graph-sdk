@@ -9,6 +9,10 @@
         {
             "name": "Facebook",
             "homepage": "https://github.com/facebook/php-graph-sdk/contributors"
+        },
+        {
+            "name": "Brian Einhaus",
+            "homepage": "https://www.brianeinhaus.com"
         }
     ],
     "require": {
