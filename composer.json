@@ -1,5 +1,5 @@
 {
-  "name": "einhaus/php-graph-sdk",
+  "name": "facebook/graph-sdk",
   "description": "Facebook SDK for PHP Modified for PHP 8.1",
   "keywords": [
     "facebook",
@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-    "php": "^8.1"
+    "php": ">=8.0"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.0",
